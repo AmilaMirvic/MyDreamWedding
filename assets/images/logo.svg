@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 300" style="enable-background:new 0 0 400 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C5F1FF;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#A2E5F4;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FF0000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st7{font-family:'Corbel';}
+	.st8{font-size:158.2066px;}
+	.st9{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st10{font-family:'GuysMyAge';}
+	.st11{font-size:31.0717px;}
+</style>
+<g id="Ring">
+	<g id="Circle">
+		<path class="st0" d="M191.1,95.6c-1.7,0.2-3.3,0.6-4.9,0.9c-24,5.8-41.9,27.4-41.9,53.2c0,30.2,24.5,54.8,54.8,54.8v-12.4
+			c-23.2-0.1-42.1-18.9-42.1-42.2c0-22.3,17.3-40.5,39.2-42.1h0c1-0.1,1.9-0.1,2.9-0.1V95C196.4,95,193.7,95.2,191.1,95.6z"/>
+		<path class="st1" d="M199.4,95v12.6c1,0,1.9,0,2.9,0.1h0c21.9,1.5,39.2,19.7,39.2,41.9c0,23.2-18.8,41.9-42.1,42V204
+			c30.1,0,54.8-24.4,54.8-54.5c0-25.7-17.8-47.2-41.9-53c-1.6-0.4-3.2-0.7-4.9-0.9C204.8,95.2,202.1,95,199.4,95z"/>
+	</g>
+	<g id="Diamond">
+		<g id="Diamond_Color_1_">
+			<path class="st2" d="M247.8,56.3l-0.6,0.7L212.5,96c-1.7-0.4-3.4-0.7-5.1-1c-2.6-0.4-5.2-0.6-7.9-0.6h-0.1c-2.7,0-5.4,0.2-8,0.6
+				c-1.7,0.2-3.3,0.6-4.9,0.9l-34.7-39.1l-0.6-0.7l15-14l19.2-4.1h28.2l19.7,4.1L247.8,56.3z"/>
+			<path class="st2" d="M226.3,59.4l20.9-2.4L226.3,59.4z"/>
+			<polygon class="st2" points="172.7,59.1 187.4,46.4 199.4,60.9 			"/>
+			<polyline class="st2" points="166.2,42.3 172.7,59.4 198.3,60.9 226.3,59.4 211.3,45.9 233,42.5 232.5,43.8 226.3,59.4 207.4,95 
+				199.5,94.4 199.4,60.7 211.8,45.9 187.2,45.9 166.2,42.3 152,56.3 172.7,59.4 191.3,95 191.3,95.1 			"/>
+			<g id="Diamond_1_">
+				<path class="st3" d="M247.8,56.5l-0.6,0.7l-34.7,39.1c-1.7-0.4-3.4-0.7-5.1-1c-2.6-0.4-5.2-0.6-7.9-0.6h-0.1
+					c-2.7,0-5.4,0.2-8,0.6c-1.7,0.2-3.3,0.6-4.9,0.9l-34.7-39.1l-0.6-0.7l15-14l19.2-4.1h28.2l19.7,4.1L247.8,56.5z"/>
+				<path class="st3" d="M226.3,59.6l20.9-2.4L226.3,59.6z"/>
+				<polygon class="st3" points="172.7,59.4 187.4,46.7 199.4,61.2 				"/>
+				<path class="st4" d="M198.8,109.3"/>
+				<path class="st4" d="M200.7,107.5"/>
+				<path class="st4" d="M201,107.4"/>
+				<polyline class="st3" points="166.2,42.5 172.7,59.6 198.3,61.2 226.3,59.6 211.3,46.2 233,42.8 232.5,44.1 226.3,59.6 
+					207.4,95.3 199.5,94.7 199.4,60.9 211.8,46.2 187.2,46.2 166.2,42.5 152,56.5 172.7,59.6 191.3,95.3 191.3,95.4 				"/>
+			</g>
+		</g>
+		<g id="D_circle_1_">
+		</g>
+	</g>
+	<g id="D_line">
+		<line class="st5" x1="198.5" y1="101.5" x2="199.5" y2="197.5"/>
+	</g>
+</g>
+<g id="MW_text">
+	<text transform="matrix(1 0 0 1 10.2861 204.2432)" class="st6 st7 st8">M    W</text>
+	<g id="Color">
+		<text transform="matrix(1 0 0 1 10.2861 204.2432)" class="st9 st7 st8">M    W</text>
+	</g>
+</g>
+<g id="Bottom_text">
+	<text transform="matrix(1 0 0 1 113.2827 229.5928)" class="st10 st11">My Dream Wedding</text>
+	<line class="st6" x1="21.6" y1="229.6" x2="108.3" y2="229.6"/>
+	<line class="st6" x1="296.3" y1="229.6" x2="377.1" y2="229.6"/>
+</g>
+</svg>
